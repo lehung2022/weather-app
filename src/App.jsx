@@ -88,11 +88,11 @@ function App() {
       <React.Fragment>
         <Grid item xs={12} md={todayWeather ? 6 : 12}>
           <Grid item xs={12}>
-            <TodayWeather data={todayWeather} forecastList={todayForecast} />
+            {/* <TodayWeather data={todayWeather} forecastList={todayForecast} /> */}
           </Grid>
         </Grid>
         <Grid item xs={12} md={6}>
-          <WeeklyForecast data={weekForecast} />
+          {/* <WeeklyForecast data={weekForecast} /> */}
         </Grid>
       </React.Fragment>
     );
