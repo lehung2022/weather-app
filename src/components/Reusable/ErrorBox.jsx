@@ -45,3 +45,5 @@ function ErrorBox(props) {
         </Box>
     );
 }
+
+export default ErrorBox;

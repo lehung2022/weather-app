@@ -6,4 +6,4 @@ const WeeklyForecast = () => {
   )
 }
 
-export default WeeklyForecast
+export default WeeklyForecast;
